@@ -14,7 +14,7 @@ target 'SwiftDelivery' do
    pod 'Firebase/Core'
    pod 'Fabric', '~> 1.9.0'
    pod 'Crashlytics', '~> 3.12.0'
-   pod 'NotificationBannerSwift', :git => 'https://github.com/Daltron/NotificationBanner'
+   pod 'NotificationBannerSwift'
    
    
    post_install do |installer|
