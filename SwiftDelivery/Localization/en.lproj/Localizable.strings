@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  SwiftDelivery
+
+  Created by "" on 17/04/19.
+  Copyright © 2019 "". All rights reserved.
+*/
+"noMoreResult" = "No more results";
+"noResultFound" = "No result found, Pull down to refresh";
+"navigationTitle" = "Things to deliver";
+"detailNavigationTitle" = "Delivery Details";
+"loading" = "Loading";
+
+
